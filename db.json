@@ -1,0 +1,84 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "name": "React",
+      "status": true
+    },
+    {
+      "id": "2",
+      "name": "Express",
+      "status": false
+    },
+    {
+      "id": "3",
+      "name": "Node",
+      "status": true
+    },
+    {
+      "id": "4",
+      "name": "Git",
+      "status": false
+    },
+    {
+      "id": "5",
+      "name": "DSA",
+      "status": true
+    },
+    {
+      "id": "6",
+      "name": "Python",
+      "status": false
+    },
+    {
+      "id": "7",
+      "name": "HTML",
+      "status": false
+    },
+    {
+      "id": "8",
+      "name": "CSS",
+      "status": false
+    },
+    {
+      "id": "9",
+      "name": "JavaScript",
+      "status": false
+    },
+    {
+      "id": "10",
+      "name": "MongoDB",
+      "status": false
+    },
+    {
+      "id": "11",
+      "name": "MySQL",
+      "status": false
+    },
+    {
+      "id": "12",
+      "name": "Django",
+      "status": false
+    },
+    {
+      "id": "13",
+      "name": "DRF",
+      "status": false
+    },
+    {
+      "id": "14",
+      "name": "Bootstrap",
+      "status": false
+    },
+    {
+      "id": "15",
+      "name": "Tailwind",
+      "status": false
+    },
+    {
+      "id": "16",
+      "name": "Chakra",
+      "status": false
+    }
+  ]
+}
